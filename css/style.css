@@ -1,3 +1,22 @@
 body{
-    background-color: #e3d5ca;
+    background-color: #fff3b0;
+}
+header{
+    width: 100%;
+    background-color: #e85d04;
+    display: flex;
+    justify-content: end;
+
+}
+img{
+    width: 1000px;
+    height: 200px;
+}
+header .uno{
+   display: flex;
+   padding: 10px;
+}
+h4{
+    padding-top: 70px;
+    font-family: 'Alkatra', cursive;
 }
