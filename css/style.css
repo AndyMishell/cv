@@ -24,7 +24,7 @@ nav{
     width: 600px;
     border: 1PX solid black;
 }
-.nav-left-section{
+.nav-section{
     display: flex;
     justify-content: space-around;
     list-style: none;
