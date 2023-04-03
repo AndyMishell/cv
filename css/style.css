@@ -21,12 +21,12 @@ h2{
     font-family: 'Alkatra', cursive;
 }
 nav{
-    width: 160px;
+    width: 600px;
     border: 1PX solid black;
 }
 .nav-left-section{
     display: flex;
-    flex-direction: column;
+    justify-content: space-around;
     list-style: none;
     margin: 0;
     padding: 20px;
@@ -44,4 +44,7 @@ a{
 li:hover{
     background: #f9dcc4;
 }
-
+main{
+    display: flex;
+    flex-direction: ;
+}
