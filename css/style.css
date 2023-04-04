@@ -59,3 +59,14 @@ main{
     text-align: center;
 }
 
+footer{
+    background-color: #f2cc8f;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.pie{
+    justify-content: center;
+}
