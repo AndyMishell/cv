@@ -1,0 +1,16 @@
+Lo que me gusto más:
+    Fue aprender a crear una página utilizando html y css. A pesar de que me 
+    costo mucho, pues soy nueva y no estoy familiarizada con el tema pero, me agrado 
+    tomar el reto.
+Lo que me gusto menos:
+    Fue el diseño, soy pésima para combinar los colores.
+Lo que se  me facilitó:
+    Se me facilitó utilizar flex.
+Lo que me costo más: 
+    Al principio me costo mucho aprender como funcionaba "todo", fue por eso que no 
+    decidí hacer un clon de otra pagina. Por lo tanto, al crear mi cv me sentí 
+    con más libertad de experimentar. 
+
+    Mi trabajo no quedo como lo había imaginado pero, gracias a eso  me di cuneta de
+    que le estoy entendiendo y de que estoy segura de mejorar porque aún quedan muchas 
+    cosas que aprender y mejorar. 
